@@ -22,4 +22,5 @@
 5、键盘enter键：
 单击重置画面。
 
-
+示例图片：
+https://github.com/EvaLiuYW/520432910004-LiuYiwen/blob/main/ImagesFolderForReadMe/WX20211024-231943%402x.png
