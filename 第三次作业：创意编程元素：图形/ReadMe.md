@@ -25,6 +25,9 @@
 
 
 3、每次点击“r”键，随机生成不一样的黑白画。
+
 <img width="650" alt="image" src="https://user-images.githubusercontent.com/90922511/140853762-751b9cad-31a5-471d-9f90-2c0f96496657.png">
+
 <img width="650" alt="image" src="https://user-images.githubusercontent.com/90922511/140853823-97ae75f4-1960-4e30-b038-ad7f25765abc.png">
+
 <img width="650" alt="image" src="https://user-images.githubusercontent.com/90922511/140853864-48f73e2d-37b5-4d0c-b056-f64a471fd773.png">
