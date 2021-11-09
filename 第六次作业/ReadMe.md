@@ -1,7 +1,7 @@
 程序说明：
 -------
 
-* 设计意图：
+### 设计意图：
 
   > 本程序意在模拟一些微观生物的避光行为。
   > 
@@ -10,12 +10,12 @@
   > 生物碰壁时，伴有能量损耗，运动速度减缓直至为0.
 
 
-* 程序逻辑：
+### 程序逻辑：
 
   > 运用向量变量模拟排斥力行为，力的大小和距离大小成反比关系。
 
 
-* 功能实现：
+### 实现效果：
   
   > 鼠标指针代表光源中心。照亮区域半径为200。
   > 
@@ -23,6 +23,9 @@
   > 
   > 按“r”键重置画面。
 
+  > <img width="600" alt="image" src="https://user-images.githubusercontent.com/90922511/140859645-bfd60e14-614f-4fe1-992e-629f0875f3d0.png">
+  > <img width="600" alt="image" src="https://user-images.githubusercontent.com/90922511/140859664-1075e270-6d59-47f1-aa34-c91091ac3aa8.png">
 
-* 演示视频：
+
+### 演示视频：
 https://github.com/EvaLiuYW/520432910004-LiuYiwen/blob/main/避光生物模拟.mp4
