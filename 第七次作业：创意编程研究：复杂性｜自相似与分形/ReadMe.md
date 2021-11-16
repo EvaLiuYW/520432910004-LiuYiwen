@@ -22,9 +22,23 @@
  
   > 按“g”键画面发生一次迭代，表现形式为雪花树的一次生长。
   > 
+  > 初始状态：
+  > 
+  > <img width="1000" alt="image" src="https://user-images.githubusercontent.com/90922511/141940408-96c0f0f4-2145-402f-bd5f-dfe7f14c48d7.png">
+  > 
+  > 一次生长：
+  > <img width="1000" alt="image" src="https://user-images.githubusercontent.com/90922511/141940541-a018ca27-04b2-43f1-8cd8-efc9a3c84abc.png">
+  > 二次生长：
+  > <img width="1000" alt="image" src="https://user-images.githubusercontent.com/90922511/141940576-0ed54d06-1d85-4dda-981f-9d3d29407707.png">
+  > 三次生长：
+  > <img width="1000" alt="image" src="https://user-images.githubusercontent.com/90922511/141940556-abd81022-90df-4004-afb3-aec66e84216f.png">
+  > ......
+  > 
+  > n次生长：
+  > <img width="1000" alt="image" src="https://user-images.githubusercontent.com/90922511/141940631-593b54f7-a695-4709-98f7-0580c79ebcec.png">
+
   > 按“c”键重置画面。
-
-
+  > <img width="1000" alt="image" src="https://user-images.githubusercontent.com/90922511/141940730-df3ee8d7-f15d-45a3-a6b3-5ff5d262514b.png">
 
 
 ### 演示视频:
